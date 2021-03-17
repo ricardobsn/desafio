@@ -1,0 +1,8 @@
+.endereco {
+    display: flex;
+    flex-direction: column;
+}
+.title {
+    margin-right: 5px;
+    font-weight: 300;
+}
